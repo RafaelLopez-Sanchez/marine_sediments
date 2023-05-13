@@ -9,9 +9,6 @@
 ## Getting Started
 
 
-## Prerequisites
-
-Explain how to use your project, including any examples or demos.
 
 ## Contributing
 
