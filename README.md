@@ -1,6 +1,6 @@
 # Exploring the Hidden Diversity of CAZymes in Marine Sediments through Metagenomics
 
-![Exploring the Hidden Diversity of CAZymes in Marine Sediments through Metagenomics](./Users/rafaellopezsanchez/desktop/marine_sediments.png)
+![Exploring the Hidden Diversity of CAZymes in Marine Sediments through Metagenomics](https://imgur.com/N9HwxDT)
 
 ## Introduction
 
