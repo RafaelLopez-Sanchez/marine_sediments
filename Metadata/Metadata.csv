@@ -1,0 +1,38 @@
+Project,Illumina sequencer,SRA ,Sample,Code key,Number of Genes,Oxygen label,Depth (mbsl),Depth (mbsf),Longitude,Latitude,Marine zone,Relationship with oxygen in literature.,Distrubance,Collection date
+PRJNA609564,NextSeq 500,SRR11308317,SAMN14329496,CIGOMA4,3653715,oxic,2966,0.104,-95,25.83,Batipelagic,NA,NA,2016-03-06
+PRJNA609564,NextSeq 500,SRR11308316,SAMN14329497,CIGOMD18,4200951,anoxic,1320,0.104,-94.41,25.53,Batipelagic,NA,NA,2016-03-18
+KATY,,KJ4,KJ4,KJGOM4,3349739,oxic,1281,                     0-0.02,-94.20,19.56,Batipelagic,NA,NA,2017-05-31
+KATY,,KJ5,KJ5,KJGOM5,3635496,oxic,1281,                0.12-0.14,-94.20,19.56,Batipelagic,NA,NA,2017-05-31
+KATY,,KJ6,KJ6,KJGOM6,3864409,anoxic,1281,                0.22-0.24,-94.20,19.56,Batipelagic,NA,NA,2017-05-31
+PRJEB25358,HiSeq 2000,ERR2431945,SAMEA104707360,ART45,11620120,oxic,420,0,-135.34,70.47,Mesopelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431946,SAMEA104707361,ART46,7951492,oxic,410,0,-135.34,70.42,Mesopelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431947,SAMEA104707362,ART47,5882431,oxic,277,0,-135.56,70.38,Mesopelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431948,SAMEA104707363,ART48,12680711,oxic,848,0,-136.12,70.51,Mesopelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431949,SAMEA104707364 ,ART49,14544454,oxic,1534,0,-139.02,70.39,Batipelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431950,SAMEA104707365,ART50,1765629,oxic,246,0,-138.21,70.05,Mesopelagic,NA,NA,2014-03-18
+PRJEB25358,HiSeq 2000,ERR2431952,SAMEA104707367,KOR52,4519113,oxic,0,0,127.62,34.68,Epipelagic,NA,beach,2014-09-22
+PRJEB25358,HiSeq 2000,ERR2431958,SAMEA104707373,KOR58,4772486,oxic,0,0,126.23,35.08,Epipelagic,NA,beach,2016-11-15
+PRJNA290197,HiSeq 2000,SRR2133847,SAMN03857199,HRSPAC47,1251555,anoxic,600,                     0-0.12 ,-125.10,44.67,Mesopelagic,NA,methane seep,                  2011-09
+PRJNA297058,MiSeq,SRR2605792,SAMN04113176 ,GYRPAC92,4237000,oxic,5283,                0.00-0.05,-139.8006,-39.3103,Abisopelagic,aerobic,oligotrophic,                  2006-12
+PRJNA326769 ,HiSeq 2500,SRR3715733,SAMN05292428 ,SMMPAC33,12278742,anoxic,863,                0.06-0.09,-118.67,33.79,Mesopelagic,NA,methane seep,2013-05-08
+PRJNA362212,HiSeq 2500,SRR6301444,SAMN06251743 ,GBGOC44,4371937,anoxic,2000,                0.03-0.04,-111.25,27.04,Batipelagic,NA,hydrothermal deep-sea sediments in the hydrocarbon-rich,                  2008-12
+PRJNA362212,HiSeq 2500,SRR6301445,SAMN06251742,GBGOC45,3876859,anoxic,2000,                  0.0-0.01,-111.25,27.04,Batipelagic,NA,hydrothermal deep-sea sediments in the hydrocarbon-rich,                  2008-12
+PRJNA362212,HiSeq 2500,SRR6301447,SAMN06288063,GBGOC47,6205483,anoxic,2000,                  0.0-0.03,-111.25,27.04,Batipelagic,NA,hydrothermal deep-sea sediments in the hydrocarbon-rich,                  2009-12
+PRJNA431796,NextSeq 500,SRR6660646,SAMN08432486 ,SMMPAC46,4204230,anoxic,860.5,                      0-0.3,-118.67,33.79,Mesopelagic,NA,mud volcano,2013-05-09
+PRJNA481090,HiSeq 2000,SRR7614706,SAMN09708227,DSANT06,3256392,oxic,0,                     0-0.05,77.96,-68.58,Epipelagic,NA,Sewage treatment plant 1 marine sediment (STP1),2010-03-01
+PRJNA481090,HiSeq 2000,SRR7614708,SAMN09708228,DSANT08,2559188,oxic,1.8,                     0-0.05,77.95,-68.58,Epipelagic,NA,Sewage treatment plant 2 marine sediment (STP2),2010-03-01
+PRJNA481090,HiSeq 2000,SRR7614709,SAMN09708229,DSANT09,2807071,oxic,0,                     0-0.05,77.92,-68.60,Epipelagic,NA,Sewage treatment plant 11A marine sediment (STP11A),2010-03-01
+PRJNA481090,HiSeq 2000,SRR7614711,SAMN09708230,DSANT11,2697562,oxic,0.9,                     0-0.05,77.86,-68.61,Epipelagic,NA,Sewage treatment plant 12B marine sediment (STP12B),2010-03-01
+PRJNA481090,HiSeq 2000,SRR7614695,SAMN09708234,DSANT95,2786059,oxic,0,                     0-0.05,77.97,-68.57,Epipelagic,NA,Davis station outfall (OF) shallow marine sediment,2010-03-01
+PRJNA504765 ,HiSeq 2500,SRR8451930,SAMN10397929,LOKART30,7099040,anoxic,3250,1.26,8.46,73.76,Batipelagic,anaerobic, hydrothermal vent area,          2010 summer
+PRJNA504765 ,HiSeq 2500,SRR8452060,SAMN10402039,LOKART60,11504903,anoxic,3236,2.23,8.45,73.75,Batipelagic,anaerobic, hydrothermal vent area,          2008 summer
+PRJNA504765 ,HiSeq 2500,SRR8452062,SAMN10404972,LOKART62,7369055,anoxic,3236,1.63,8.45,73.75,Batipelagic,anaerobic, hydrothermal vent area,          2010 summer
+PRJNA504765 ,HiSeq 2500,SRR8482195,SAMN10404973 ,LOKART95,3316708,anoxic,3236,1.03,8.45,73.75,Batipelagic,anaerobic, hydrothermal vent area,          2010 summer
+PRJNA526329,HiSeq 2500,SRR8709623,SAMN11095932,MARPAC23,1528536,oxic,7942,                     0-0.01,144.93,11.91,Hadalpelagic,NA,NA,                  2014-11
+PRJNA553005,HiSeq 2500,SRR9649754,SAMN12227482,DELGOM54,1754339,oxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Reference site D21,                           NA
+PRJNA553005,HiSeq 2500,SRR9649755,SAMN12227483,DELGOM55,2697711,anoxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA, Transit site D24,                           NA
+PRJNA553005,HiSeq 2500,SRR9649756,SAMN12227484,DELGOM56,2723878,anoxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Seep site D27,                           NA
+PRJNA553005,HiSeq 2500,SRR9649757,SAMN12227485,DELGOM57,1971929,oxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Reference site D30,                           NA
+PRJNA553005,HiSeq 2500,SRR9649758,SAMN12227486,DELGOM58,1658701,anoxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Seep site D33,                           NA
+PRJNA553005,HiSeq 2500,SRR9649759,SAMN12227487,DELGOM59,1508147,anoxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Seep site D72 (hydrocarbon),                           NA
+PRJNA553005,HiSeq 2500,SRR9649760,SAMN12227488,DELGOM60,1826893,anoxic,1400,                0.10–0.15,-94.69,26.94,Batipelagic,NA,Seep site D75 (hydrocarbon),                           NA
