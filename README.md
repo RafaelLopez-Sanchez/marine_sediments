@@ -21,6 +21,8 @@ This page contains several folders with .csv files and scripts for this articles
 
 - **Oxic anoxic trait**: CSV of the normalized counts of HCOs and NORs found in our metagenome samples.
 
+- **Scipts**: shell scripts for the annotation of CAZymes and extracellular CAZymes using HMMEr and dbcan2
+
 - **Taxonomy sediments**: CSVs of the taxonomic classes of bacteria and phylums of archaea found abundant in our metagenomes (more than 1% abundance).
 
 
