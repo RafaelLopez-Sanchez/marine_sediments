@@ -5,7 +5,7 @@
 This page contains several folders with .csv files and scripts for this articles.
 
 
-'Beta Diversity': CSV of the Beta diversity matrix at the class level.
+- Beta Diversity': CSV of the Beta diversity matrix at the class level.
 
 'CAZymes in sediments': CSV matrixes of CAZyme counts and extracellular  CAZyme counts found in our metagenome samples.
 
